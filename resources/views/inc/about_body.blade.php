@@ -54,19 +54,30 @@
 				</div>
 				<div class="blo-top">
 					<div class="tech-btm">
-						<h4>Sign up to our newsletter</h4>
-						<p>Pellentesque dui, non felis. Maecenas male</p>
+						<h4>REQUEST A CALLBACK</h4>
 						<div class="name">
-							<form action="#" method="post">
+							<?php
+					         	//echo Form::open(array('url' => '/singel'));
+								echo Form::open(['action' => 'CallbackController@store']);
 								
-								<input type="email" name="Email" placeholder="Email" required="">
-								<div class="button">
-
-									<input type="submit" value="Subscribe">
-
-								</div>
-							</form>
-							
+								echo Form::label('name', 'Your Name:');
+					            echo '<br/>';
+					            echo Form::text('name');
+					            echo '<br/>';
+					            
+					            echo Form::label('email_id', 'E-Mail:');
+					            echo '<br/>';
+					            echo Form::text('email_id');
+					            echo '<br/>';
+					     
+					            echo Form::label('phone_no', 'Telephone:');
+					            echo '<br/>';
+					            echo Form::text('phone_no');
+					            echo '<br/>';
+					            
+					            echo Form::submit('SEND NOW');
+						        echo Form::close();
+						    ?>
 						</div>
 
 						<div class="clearfix"> </div>

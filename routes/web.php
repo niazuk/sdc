@@ -34,3 +34,5 @@ Route::get('/signin', function () {
 Route::get('/single', function () {
     return view('single');
 });
+
+Route::post('store','CallbackController@store');

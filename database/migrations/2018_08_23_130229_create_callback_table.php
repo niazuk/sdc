@@ -14,7 +14,7 @@ class CreateCallbackTable extends Migration
     public function up()
     {
         // call back request table
-        Schema::create('callback', function (Blueprint $table) {
+        Schema::create('callbacks', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name',100);
             $table->string('email_id',100);

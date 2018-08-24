@@ -2,9 +2,14 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use Request;
+use App\callback;
 
 class CallbackController extends Controller
 {
     //
+    public function store(Request $request){
+    	callback::create(Request::all());
+      	echo 'store';
+   }
 }
