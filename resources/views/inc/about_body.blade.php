@@ -56,8 +56,11 @@
 					<div class="tech-btm">
 						<h4>REQUEST A CALLBACK</h4>
 						<div class="name">
+							@isset($request_update)
+						    	{{$request_update}}
+						    @endisset
 							<?php
-					         	//echo Form::open(array('url' => '/singel'));
+								$request_update = '';
 								echo Form::open(['action' => 'CallbackController@store']);
 								
 								echo Form::label('name', 'Your Name:');
@@ -77,7 +80,7 @@
 					            
 					            echo Form::submit('SEND NOW');
 						        echo Form::close();
-						    ?>
+						    ?>						
 						</div>
 
 						<div class="clearfix"> </div>

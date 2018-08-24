@@ -30,6 +30,6 @@ class CreateCallbackTable extends Migration
      */
     public function down()
     {
-        Schema::drop('callback');
+        Schema::drop('callbacks');
     }
 }
