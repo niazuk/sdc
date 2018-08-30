@@ -63,7 +63,7 @@ Covering collections, enforcement, tracing, credit checking and more. Only accep
 					</div>
 				</div>
 			</div>
-	-->		<div class="item item4">
+	-->		<div class="item item3">
 				<div class="container">
 					<div class="carousel-caption">
 
