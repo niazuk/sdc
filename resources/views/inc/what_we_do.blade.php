@@ -38,6 +38,9 @@
 							</div>
 						</div>
 					<div class="clearfix"></div>
+					<div id="wrap">
+						<img src="images/work_together.jpg" style="padding-top: 30px;" height="75%">
+					</div>
 				</div>
 			</div>
 

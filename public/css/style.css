@@ -208,9 +208,9 @@ span.desc {
 
 .carousel-caption h2,
 .carousel-caption h3 {
-    font-size: 4em;
+    font-size: 2em;
     font-weight: 700;
-    letter-spacing: 2px;
+    letter-spacing: 0px;
 }
 
 .carousel-caption h2 span,
@@ -219,11 +219,14 @@ span.desc {
 }
 
 .carousel-caption p {
-    letter-spacing: 7px;
-    font-size: 1.1em;
-    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 1em;
+    font-weight: 600;
     color: #fff;
     margin: 1em 0 2em 0;
+    text-align: justify;
+    background-color: rgba(45,45,45,.5);
+
 }
 
 .carousel-caption a {
@@ -291,8 +294,9 @@ span.desc {
 .carousel-caption {
     position: inherit;
     min-height: 650px !important;
-    padding-top: 16em;
+    padding-top: 15em;
     text-align: center;
+   /* background-color: rgba(45,45,45,.5);*/
 }
 
 .carousel-control {
@@ -2147,4 +2151,17 @@ ul.demo {
     line-height: 1.5em;
     font-weight: 600;
     text-align: center;
+}
+
+#wrap {
+   width:1200px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:600px;
+}
+#right_col {
+   float:right;
+   width:600px;
 }
