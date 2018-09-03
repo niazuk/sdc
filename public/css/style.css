@@ -2166,3 +2166,31 @@ ul.demo {
    float:right;
    width:600px;
 }
+
+#wrap_services_1 {
+   width:1200px;
+   margin:0 auto;
+   background: url(../images/commercial_debt_collection.jpg);
+}
+
+.service_text{
+    text-align: justify;
+    margin-top: 2em;
+}
+
+.service_text h3{
+    margin: 26px 0 10px 0;
+    color: #65b32e;
+    font-weight: 700;
+    font-size: 1.3em;
+    letter-spacing: 1px;
+}
+
+.service_text p{
+    margin: 0;
+    color: #000;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-weight: 400;
+    text-align: justify;
+}

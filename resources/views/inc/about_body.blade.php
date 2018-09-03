@@ -27,7 +27,7 @@
 								•	Demonstrating Passion for Success <br>
 								•	Uphold the highest standards of personal and professional Ethics, Honesty and Trust<br>
 								•	Going the Extra Mile<br>
-								•	Offering Long term commitment to people<br>
+								•	Offering Long term commitment to our clients<br>
 								•	Striving for continuous improvement<br>
 								•	Bing responsive to your needs<br>
 								•	Make it happen by being the very best at what we do

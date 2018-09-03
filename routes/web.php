@@ -23,8 +23,28 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/services', function () {
-    return view('services');
+Route::get('/services1', function () {
+    return view('services1');
+});
+
+Route::get('/services2', function () {
+    return view('services2');
+});
+
+Route::get('/services3', function () {
+    return view('services3');
+});
+
+Route::get('/services3', function () {
+    return view('services3');
+});
+
+Route::get('/services4', function () {
+    return view('services4');
+});
+
+Route::get('/services5', function () {
+    return view('services5');
 });
 
 Route::get('/signin', function () {
