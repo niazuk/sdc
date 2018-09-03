@@ -57,11 +57,11 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
 					    aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+		            <span class="sr-only">Toggle navigation</span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		          </button>
 					<div class="logo-w3layouts-agileits">
 						<h1> <a class="" href="/"><img class="logo" src="images/logo.png"> SageDebtCollection <span class="desc"></span></a></h1>
 					</div>

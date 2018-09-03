@@ -126,7 +126,7 @@ h6.media-heading {
 .blog-text h5 {
     font-size: 1.7em;
     margin: 0.6em 0;
-    color: #068acd;
+    color: #65b32e;
     font-weight: 600;
     text-align: center;
     justify-content: center;
@@ -144,7 +144,7 @@ h6.media-heading {
     letter-spacing: 3px;
 }
 .blo-top form input[type="submit"] {
-    background: #76daff;
+    background: #65b32e;
     padding: .7em 1em;
     color: #fff;
     font-size: 15px;

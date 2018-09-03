@@ -13,7 +13,7 @@
 						<div id="wrap">
 							<div id="left_col">
 								<h3>40 years of successful debt recovery and credit management</h3>
-								<p>Sage debt collection service can be an easy way to shift the burden of dealing with your business’ finances. Whether this is due to a lack of time, experience or resources – using SDC debt collection service can be easy and efficient and get you better results than using your existing methods. We are extremely professional and work with each individual client to ensure that the best options for your needs are met. We place a high emphasis on training our staff to ensure that they can deliver the best results to clients and provide a reassuring service that ensures great results and returns.</p>
+								<p>Sage debt collection service can be an easy way to shift the burden of dealing with your business’ finances. Whether this is due to a lack of time, experience or resources – using SDC debt collection service can be easy and efficient and get you better results than using your existing methods.<br><br> We are extremely professional and work with each individual client to ensure that the best options for your needs are met. We place a high emphasis on training our staff to ensure that they can deliver the best results to clients and provide a reassuring service that ensures great results and returns.</p>
 						<!--div class="top-buttons">
 							<div class="bnr-button">
 								<a class="act" href="/about">About Us</a>
@@ -26,7 +26,7 @@
 						 -->
 							</div>
 							<div id="right_col">
-								<img src="images/get_in_touch.png">
+								<img src="images/get_in_touch.png" width="75%" height="77%">
 							</div>
 						</div>
 
@@ -41,7 +41,7 @@
 						<div id="wrap">
 							<div id="left_col">
 						<h3>Superior, Cost effictive debt collection</h3>
-						<p>SDC is a professional and award winning service provider which provide tailored services to the clients to ensure that they get the best solutions possible for their investment. SDC offer services which include debt recovery, credit control services as well as others and provide services to a range of industries across the UK including financial and retail sectors. A reliable, friendly collection agency which can deliver effective results, SDC is an ideal provider for all business sizes.</p>
+						<p>SDC is a professional and award winning service provider which provide tailored services to the clients to ensure that they get the best solutions possible for their investment. SDC offer services which include debt recovery, credit control services as well as others and provide services to a range of industries across the UK including financial and retail sectors.<br><br> A reliable, friendly collection agency which can deliver effective results, SDC is an ideal provider for all business sizes.</p>
 						<!--div class="top-buttons">
 							<div class="bnr-button">
 								<a class="act" href="/about">About Us</a>
@@ -87,7 +87,7 @@ Covering collections, enforcement, tracing, credit checking and more. Only accep
 							<div id="wrap">
 							<div id="left_col">
 						<h3>Stay informed, stay up-to date</h3>
-						<p>SDC is a leading debt collection agencies in the UK, offering a fair and ethical approach to debtors whilst ensuring results for creditors. Whether you’re looking for solutions for one-off collections or to completely outsource your credit management, SDC have the expertise and experience to do so. Our dedicated team will meet with you to discuss your business needs and ensure that the most suitable options for your company are used. SDC have a large customer services team who have trained, friendly staff on board to help you with any problems you may encounter with the service.</p>
+						<p>SDC is a leading debt collection agencies in the UK, offering a fair and ethical approach to debtors whilst ensuring results for creditors. Whether you’re looking for solutions for one-off collections or to completely outsource your credit management, SDC have the expertise and experience to do so.<br><br> Our dedicated team will meet with you to discuss your business needs and ensure that the most suitable options for your company are used. SDC have a large customer services team who have trained, friendly staff on board to help you with any problems you may encounter with the service.</p>
 						<!--div class="top-buttons">
 							<div class="bnr-button">
 								<a class="act" href="/about">About Us</a>

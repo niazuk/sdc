@@ -67,7 +67,7 @@ label {
 }
 
 .navbar-default {
-    background-color: #ffffff;
+    background-color: #000000;
     box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -102,7 +102,7 @@ label {
 
 .logo-w3layouts-agileits h1 a {
     font-size: 1.1em;
-    color: #111;
+    color: #fff;
 }
 
 .navbar-nav>li>a {
@@ -114,7 +114,7 @@ label {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #27292b;
+    color: #fff;
 }
 
 .dropdown-menu>li>a {
@@ -123,15 +123,15 @@ label {
     clear: both;
     font-weight: normal;
     line-height: 1.42857143;
-    color: #807d7d;
+    color: #000;
     letter-spacing: 1px;
 }
 
 .dropdown-menu>li>a:hover,
 .dropdown-menu>li>a:focus {
-    color: #262626;
+    color: #fff;
     text-decoration: none;
-    background-color: #c3e6f3;
+    background-color: #000;
 }
 
 a.request {
@@ -147,7 +147,7 @@ a.request {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #76daff;
+    background-color: #000;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -549,7 +549,7 @@ ul.short li a {
 
 h3.tittle-w3ls {
     color: #1b1b1b;
-    font-size: 3em;
+    font-size: 2em;
     text-align: left;
     letter-spacing: 2px;
     font-weight: 700;
@@ -2121,6 +2121,7 @@ ul.demo {
     text-align: center;
     outline: none;
     font-size: 15px;
+    float:right;
 }
 
 .collapsible:hover {
