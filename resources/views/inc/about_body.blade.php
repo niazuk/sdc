@@ -4,6 +4,13 @@
 	<!-- /inner_content -->
 	<div class="banner_bottom">
 		<img src="images/about_us.png" class="img-responsive" alt="" width="100%">
+		<div class="centered">
+			<h3>About us</h3>
+				<p>Based in North west and run by an experienced team of debt collectors and legal experts, making us one of the UK’s leading debt collection agencies. Our extensive client base ranges across the board.<br><br>
+				NO SUCCESS = NO FEE on all debt recovery collections. We do not seek up-front payments.<br>
+				We have a high success rate, envied by many of our competitors. In fact we are proud to act for a number of other debt collection agencies as the final step when they failed to collect themselves. Our modern computer technology has direct access to up-to-date credit information systems, which enables us to investigate the profile of your debtor mote thoroughly, thus ensuring the best course of debt collection action is taken for each and every account. We offer a highly professional and effective service resulting in a high degree of success. Our commission rates offer excellent value for the work we undertake.
+				</p>	
+		</div>
 		<div class="container">
 			<div class="row">
 

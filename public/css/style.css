@@ -206,6 +206,7 @@ span.desc {
     background-size: cover;
 }
 
+.centered h3,
 .carousel-caption h2,
 .carousel-caption h3 {
     font-size: 2em;
@@ -218,6 +219,7 @@ span.desc {
     font-weight: 600;
 }
 
+.centered p,
 .carousel-caption p {
     letter-spacing: 1px;
     font-size: 1em;
@@ -2193,4 +2195,12 @@ ul.demo {
     line-height: 1.5em;
     font-weight: 400;
     text-align: justify;
+}
+
+.centered {
+    position: absolute;
+    top: 42%;
+    left: 48%;
+    color: #fff;
+    transform: translate(-50%, -50%);
 }

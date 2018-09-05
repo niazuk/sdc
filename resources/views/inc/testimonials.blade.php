@@ -40,7 +40,7 @@
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>SDC have really taken the stress out of chasing unpaid invoices. Very reasonably priced and get the job done quickly and efficiently. All accounts can be viewed via a portable, therefore you are kept in the loop every step of the way.</p>
-												<h6>Jane Wearne</h6>
+												<h6>Neil Jefferies</h6>
 											</div>
 										</div>
 									</blockquote>
@@ -54,7 +54,7 @@
 											</div>
 											<div class="col-sm-9 test_img_info">
 												<p>We used SDC , To help with Our finances to get back on track , We found them Brilliant especially Emma who we dealt with , Emma was very professional , Happy to help ,very polite, nothing to much trouble , good listener and not judge mental with our situation. Please if anyone is reading this don't hesitate to get in touch with SDC, there is always someone there to listen and give you the best advise they can , Thank you all so much!!</p>
-												<h6>Alice Williams</h6>
+												<h6>John Williams</h6>
 											</div>
 										</div>
 									</blockquote>
