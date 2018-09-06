@@ -1,5 +1,11 @@
 <div class="banner_bottom">
 	<img src="images/trace_customers.jpg" class="img-responsive" alt="" width="100%">
+	<div class="centered">
+		<h3>Track Customers</h3>
+			<p>Do you have absconded debtors or tenants who has left owing rent? Has your partner vanished and is not paying child support? Are you looking to get back in touch with an old school friend? If so then Tracesure can help!<br>
+			Tracesure provide assistance to hundreds of people a week who are looking to trace individuals for a variety of reasons. Working on a "No trace - No Fee" basis.
+			</p>	
+	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4 service_text">

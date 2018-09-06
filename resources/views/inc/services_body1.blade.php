@@ -1,5 +1,10 @@
 <div class="banner_bottom">
 	<img src="images/commercial_debt_collection.jpg" class="img-responsive" alt="" width="100%">
+	<div class="centered">
+		<h3>Commercial Debt Collection</h3>
+			<p>
+			</p>	
+	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4 service_text">
