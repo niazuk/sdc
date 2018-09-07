@@ -2126,8 +2126,7 @@ ul.demo {
     border: none;
     text-align: center;
     outline: none;
-    font-size: 15px;
-    float:right;
+    font-size: 15px; 
 }
 
 .collapsible:hover {
@@ -2139,7 +2138,7 @@ ul.demo {
 }
 
 .content {
-    padding: 0 18px;
+    padding: 0 0px;
     display: none;
     overflow: hidden;
 }

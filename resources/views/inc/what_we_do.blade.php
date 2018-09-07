@@ -3,7 +3,7 @@
 			<h3 class="tittle-w3ls cen">What we do</h3>
 			<div class="inner_sec_info_wthree_agile">
 				<div class="ser-first">
-					<div class="row">
+					
 					<div class="col-md-4 ser-first-grid text-center">	
 						<h3>Commercial Debt Recovery</h3>
 						<p>When any company has late payers or is unable to secure payment it can be difficult to know how to move the situation forward. Finding a credible commercial debt recovery agency is logically the next step to ease any concerns about growing bad debt being written off. </p>
@@ -19,7 +19,7 @@
 						<h3>PROCESS SERVING</h3>
 						<p>Process serving is simple but can be a vital part of debt collection. Often, debtors may ignore letters or plead they never received any. This elongates the legal process causing frustration for creditors. To resolve this, SDC's team will ensure your documents definitely reach your debtors. </p>
 					</div>
-				    </div>
+				  
 				    <button class="collapsible">Show More</button>
 						<div class="content">
 							<div class="col-md-4 ser-first-grid text-center">
