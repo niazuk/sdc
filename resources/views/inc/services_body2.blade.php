@@ -2,10 +2,8 @@
 	<img src="images/credit_control.jpg" class="img-responsive" alt="" width="100%">
 	<div class="centered">
 		<h3>Credit Control</h3>
-			<p>Run by qualified, experienced and knowledgeable credit control staff, we can provide a targeted structured and consistent approach to your credit control.<br>
-			Outsourcing Credit Control<br>
-			What’s more is your customers need never know you outsource your collections to us; all our communications can be carried out seamlessly in your company’s name on all collections platforms: post, telephone and email. Credit control activity carried out seamlessly in your company’s name.
-			</p>	
+		<p>Run by qualified, experienced and knowledgeable credit control staff, we can provide a targeted structured and consistent approach to your credit control.
+		</p>	
 	</div>
 	<div class="container">
 		<div class="row">
