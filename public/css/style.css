@@ -207,10 +207,11 @@ span.desc {
 }
 
 .centered h3,
+.centered_about h3,
 .carousel-caption h2,
 .carousel-caption h3 {
     font-size: 2em;
-    padding: 1em 0em 0em .5em;
+    padding: 0em 0em 0em .5em;
     font-weight: 700;
     letter-spacing: 0px;
 }
@@ -221,6 +222,7 @@ span.desc {
 }
 
 .centered p,
+.centered_about p,
 .carousel-caption p {
     letter-spacing: 1px;
     padding: 0em 1em 1em 1em;
@@ -229,7 +231,7 @@ span.desc {
     color: #fff;
     margin: 1em 0 2em 0;
     text-align: justify;
-    background-color: rgba(45,45,45,.5);
+   /* background-color: rgba(45,45,45,.5); */
 
 }
 
@@ -2206,7 +2208,16 @@ ul.demo {
     color: #fff;
     width: 600px;
     transform: translate(-50%, -50%);
-    background-color: rgba(45,45,45, .95) !important;
+    background-color: rgba(45,45,45, .25) !important;
+}
+
+.centered_about {
+    position: absolute;
+    top: 42%;
+    left: 36%;
+    color: #fff;
+    width: 600px;
+    transform: translate(-50%, -50%);
 }
 
 #centered_p {
