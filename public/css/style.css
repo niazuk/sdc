@@ -2122,6 +2122,8 @@ ul.demo {
     color: #65b32e;
     cursor: pointer;
     padding: 10px;
+    margin-left: 500px;
+    margin-top: 20px;
     width: 10%;
     border: none;
     text-align: center;
