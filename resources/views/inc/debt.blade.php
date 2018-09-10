@@ -15,21 +15,22 @@
 					$request_update = '';
 					echo Form::open(['action' => 'CallbackController@store']);
 					
-					echo Form::label('name', 'Date Due:');
+					echo Form::label('debt_date', 'Date Due:');
 		            
-		            echo Form::date('name');
+		            echo Form::date('debt_date');
+		            echo '<br/>';
 		            echo '<br/>';
 		            
-		            echo Form::label('email_id', 'E-Mail:');
+		            echo Form::label('debt_type', 'Debt Type:');
 		           
-		            echo Form::text('email_id');
+		            echo Form::select('debt_type', ['incoice' => 'Invoice', 'tenancy' => 'Tenancy Agreement', 'verbal' => 'Verbal Agreement', 'written' => 'Written Agreement'], 'invoice');
 		            echo '<br/>';
-		     
-		            echo Form::label('phone_no', 'Telephone:');
+		     		echo '<br/>';
+		            echo Form::label('initial_amount', 'Initial Amount:');
 		           
-		            echo Form::text('phone_no');
+		            echo Form::number('initial_amount');
 		            echo '<br/>';
-		            
+		            echo '<br/>';
 		            echo Form::submit('SEND NOW');
 			        echo Form::close();
 			    ?>	
