@@ -35,6 +35,7 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 	<link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,300,300i,400,400i,500,500i,600,600i,700,800" rel="stylesheet">
 	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700" rel="stylesheet">
 	<link href="css/single.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/contact.css" rel="stylesheet" type="text/css" media="all" />
 	
 </head>
 
@@ -85,7 +86,8 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 									<li><a href="/services5">Credit Checking</a></li>									
 								</ul>
 							</li>
-							<li><a href="#">Contact</a></li>													
+							<li><a href="/submit_debt">Submit Debt</a></li>			
+							<li><a href="/contact">Contact</a></li>																			
 						</ul>
 					</div>
 				</div>

@@ -51,8 +51,8 @@ Route::get('/signin', function () {
     return view('signin');
 });
 
-Route::get('/single', function () {
-    return view('single');
+Route::get('/submit_debt', function () {
+    return view('submit_debt');
 });
 
 Route::post('store','CallbackController@store');
