@@ -45,15 +45,17 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		<!-- Fixed navbar -->
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="navbar-top">
-				<div class="col-sm-4 col-xs-4" style="background-color: #fff200; color: #000000;">
+				<div class="row">
+				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
 					<i></i><a href="tel:08454706299" title="Mobile" style="color: #ffffff;">&nbsp;&nbsp;</a>
 				</div>
-				<div class="col-sm-4 col-xs-4" style="background-color: #fff200; color: #000000;">
-					<i class="glyphicon glyphicon-phone-alt"></i><a href="tel:08001303357"  title="Telephone (Free-phone)" style="color: #000000;">&nbsp;&nbsp;01204 201 580</a>
+				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
+					<i class="glyphicon glyphicon-phone-alt"></i><a href="tel:08001303357"  title="Telephone (Free-phone)" style="color: #ffffff;">&nbsp;&nbsp;01204 201 580</a>
 				</div>				
-				<div class="col-sm-4 col-xs-4" style="background-color: #fff200; color: #000000;">
-					<i class="glyphicon glyphicon-envelope"></i><a href="mailto:wade@gigidy.com" title="Email" style="color: #000000;">&nbsp;&nbsp;enquiries@sagedebtcollection.com</a>
+				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
+					<i class="glyphicon glyphicon-envelope"></i><a href="mailto:wade@gigidy.com" title="Email" style="color: #ffffff;">&nbsp;&nbsp;enquiries@sagedebtcollection.com</a>
 				</div>
+			</div>
 			</div>
 			<div class="nav_top_fx_w3ls_agileinfo" style=" padding-top: 0em;">
 				<div class="navbar-header">
@@ -65,7 +67,9 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		            <span class="icon-bar"></span>
 		          </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="" href="/"><img class="logo" src="images/logo.png"><span class="desc"></span></a></h1>
+						<h1> <a class="" href="/"><div class="logo"><img class="desktop" src="images/logo.png" height="100%">
+																	<img class="mobile" src="images/logo_mobile.png"  height="100%">
+						</a></h1>
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
