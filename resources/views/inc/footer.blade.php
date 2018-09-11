@@ -1,7 +1,7 @@
 <div class="footer">
 		<div class="footer_inner_info_w3ls_agileits">
 			<div class="col-md-3 footer-left">
-				<h2><a href="/"><img class="logo" src="images/logo.png"> SageDebtCollection </a></h2>
+				<h2><a href="/"><img class="logo_footer" src="images/logo.png"></a></h2>
 				<p>The UK Leading Debt Collection Agency</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>

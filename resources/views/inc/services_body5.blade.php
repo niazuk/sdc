@@ -1,4 +1,4 @@
-<div class="banner_bottom">
+<div class="">
 	<img src="images/credit_checking.jpg" class="img-responsive" alt="" width="100%">
 	<div class="centered">
 		<h3>Credit Checking</h3>

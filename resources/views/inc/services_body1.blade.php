@@ -1,4 +1,4 @@
-<div class="banner_bottom">
+<div class="">
 	<img src="images/commercial_debt_collection.jpg" class="img-responsive" alt="" width="100%">
 	<div class="centered">
 		<h3>Commercial Debt Collection</h3>

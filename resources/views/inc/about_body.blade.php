@@ -2,7 +2,7 @@
 
 	<!--//banner_info-->
 	<!-- /inner_content -->
-	<div class="banner_bottom">
+	<div class="">
 		<img src="images/about_us.png" class="img-responsive" alt="" width="100%">
 		<div class="centered_about">
 			<h3>About us</h3>
