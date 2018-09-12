@@ -54,11 +54,11 @@
 						<div class="tech-btm">
 							<h4>REQUEST A CALLBACK</h4>
 							<div class="name">
-								@isset($request_update)
+<!--								@isset($request_update)
 							    	{{$request_update}}
 							    @endisset
-								<?php
-									$request_update = '';
+-->								<?php
+//									$request_update = '';
 									echo Form::open(['action' => 'CallbackController@store']);
 									
 									echo Form::label('name', 'Your Name:');
