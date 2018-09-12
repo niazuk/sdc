@@ -6,11 +6,14 @@
 -->
 
 @include('inc.header')
+
+@include('inc.contact_body')
+<!--
 <div class="banner_bottom">
 		<div class="container">
 			
 			<div class="mail_form">
-				<h3 class="tittle-w3ls">Send Us a Message</h3>
+				<h3 class="tittle-w3ls">Contact Us</h3>
 				<div class="inner_sec_info_wthree_agile">
 					<form action="#" method="post">
 						<span class="input input--chisato">
@@ -39,6 +42,6 @@
 			</div>			
 		</div>
 	</div>
-
+-->
 @include('inc.how_it_works')
 	@include('inc.footer')

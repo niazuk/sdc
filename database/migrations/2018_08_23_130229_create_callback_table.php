@@ -19,6 +19,7 @@ class CreateCallbackTable extends Migration
             $table->string('name',100);
             $table->string('email_id',100);
             $table->string('phone_no',100);
+            $table->string('message',1000)->default('Callback');;
             $table->timestamps();
         });
     }

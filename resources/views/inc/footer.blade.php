@@ -79,7 +79,7 @@
 			
 			<p class="copy-right">ICO Data Protection Registration: ZA288807<br>
 
-SageDebtCollection.com is a treading name of Limitless Corporation Limited. Registered in England and Wales No 10693446. 
+SageDebtCollection.com is a trading name of Limitless Corporation Limited. Registered in England and Wales No 10693446. 
 Registered Office: 181 Melrose, Chorley New Road, Heaton, BL1 4QZ.<br> &copy 2018 SBC. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
 		</div>
 	</div>

@@ -101,7 +101,7 @@ label {
 }
 
 .logo-w3layouts-agileits h1 a {
-    font-size: 1.1em;
+    font-size: 1em;
     color: #fff;
 }
 
@@ -2111,7 +2111,7 @@ ul.demo {
 }
 
 .logo{
-    width: 500px;
+    width: 50%;
     height: 65px;
 }
 
@@ -2126,6 +2126,7 @@ ul.demo {
     .logo .desktop {
       display: none;
     }
+}
 
 .logo_footer{
     width: 250px;
@@ -2241,4 +2242,9 @@ ul.demo {
 
 #centered_p {
     background-color: rgba(45,45,45, 0) !important;
+}
+
+.foo{
+    width: 100%;
+    padding: 5px;
 }

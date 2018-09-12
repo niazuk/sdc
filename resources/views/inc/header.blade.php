@@ -67,8 +67,9 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		            <span class="icon-bar"></span>
 		          </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="" href="/"><div class="logo"><img class="desktop" src="images/logo.png" height="100%">
-																	<img class="mobile" src="images/logo_mobile.png"  height="100%">
+						<h1> <a class="" href="/"><div class="logo"><img class="desktop" src="images/logo.png" height="110% width="50%">
+																	<img class="mobile" src="images/logo_mobile.png"  height="125%">
+																</div>
 						</a></h1>
 					</div>
 				</div>

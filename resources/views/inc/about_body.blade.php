@@ -75,6 +75,7 @@
 						            echo '<br/>';
 						            echo Form::text('phone_no');
 						            echo '<br/>';
+						            echo Form::hidden('message', 'Callback me');
 						            
 						            echo Form::submit('SEND NOW');
 							        echo Form::close();
