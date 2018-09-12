@@ -13,7 +13,7 @@ class HomeController extends Controller
     public function mail(Request $contact)
 	{
 	   $name = $contact['name'];
-	   Mail::to('niaz@gigidy.com')->send(new SendMailable($name));   
+	   Mail::to('niaz@gigidy.com')->send(new SendMailable($contact));   
 	   return 'Email was sent';
 	}
 }
