@@ -199,13 +199,13 @@ span.input.input--chisato:nth-child(2) {
 
 .mail_form textarea {
 	outline: none;
-	background: none;
+	background: #ffffff;
 	border: 2px solid #b5b5b5;
 	font-size: 14px;
 	color: #212121;
 	width: 100%;
-	padding: .9em 0.9em;
-	margin: 2em 0;
+	padding: 0em;
+	margin: 0em;
 	min-height: 200px;
 	letter-spacing: 1px;
 }
@@ -229,7 +229,7 @@ span.input.input--chisato:nth-child(2) {
 }
 
 .mail_form input[type="submit"]:hover {
-    background: #fff200;
+    background: #8fc562;
 }
 
 .map iframe {
@@ -344,3 +344,13 @@ span.input.input--chisato:nth-child(2) {
 @media(max-width:320px) {}
 
 /*--//responsive--*/
+
+.contact_bg{
+	background-image: url("../images/contact_form.jpg");
+}
+.contact_send{
+	text-align: center;
+}
+.contact_send span{
+	font-size: 70%;
+}

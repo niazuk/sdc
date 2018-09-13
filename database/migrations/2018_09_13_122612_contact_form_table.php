@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateCallbackTable extends Migration
+class ContactFormTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,13 +13,14 @@ class CreateCallbackTable extends Migration
      */
     public function up()
     {
-        // call back request table
-        Schema::create('callbacks', function (Blueprint $table) {
+         Schema::create('contact_forms', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name',100);
-            $table->string('email_id',100);
-            $table->string('phone_no',100);
-            $table->string('message',1000)->default('Callback');
+            $table->string('company',100);
+            $table->string('email',100);
+            $table->string('phone',100);
+            $table->string('reference_no',100);
+            $table->string('enquiries',1000)->default('Please contact me.');;
             $table->timestamps();
         });
     }
@@ -31,6 +32,6 @@ class CreateCallbackTable extends Migration
      */
     public function down()
     {
-        Schema::drop('callbacks');
+        Schema::drop('contactforms');
     }
 }

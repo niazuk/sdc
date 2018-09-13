@@ -10,7 +10,7 @@
 
 <head>
 
-	<title>SBC: The UK Leading Debt Collection Agency</title>
+	<title>SDC: The UK Leading Debt Collection Agency</title>
 
 	<!--/tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">

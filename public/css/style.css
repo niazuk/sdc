@@ -58,7 +58,8 @@ ul {
 }
 
 label {
-    margin: 0;
+    margin: 5px 0px;
+    font-size: 80%;
 }
 
 .navbar-nav {
@@ -2247,4 +2248,9 @@ ul.demo {
 .foo{
     width: 100%;
     padding: 5px;
+}
+
+.foo_area{
+    width: 100%;
+    padding: 0px !important;
 }

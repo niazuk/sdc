@@ -57,6 +57,8 @@ Route::get('/submit_debt', function () {
 
 Route::post('store','CallbackController@store');
 
+Route::post('/form/store','ContactFormController@store');
+
 Route::get('/send/email', 'HomeController@mail');
 
 Route::get('/emailsend', function () {
