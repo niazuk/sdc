@@ -5,6 +5,7 @@
 		<p> Submit your debt online, email or by post.
 			</p>		
 	</div>
+	<div class="contact_bg">
 	<div class="container">
 		<div class="mail_form">
 			<br>
@@ -38,7 +39,7 @@
 
 					        echo '<div class="row">';
 								echo '<div class="col-sm-12">';									
-									echo Form::label('amount', 'Initial Amount ');           
+									echo Form::label('amount', 'Amount Outstanding ');           
 						            echo Form::number('amount', null, array('class' => 'foo'));
 						            echo '<br/><br/>';
 					            echo '</div>';
@@ -145,5 +146,6 @@
 			    ?>	
 	</div>
 	</div>
-	</div>				
+	</div>	
+</div>			
 </div>							    

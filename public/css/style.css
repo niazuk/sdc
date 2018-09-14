@@ -2232,6 +2232,10 @@ ul.demo {
     background-color: rgba(45,45,45, .25) !important;
 }
 
+.centered_credit_control {
+    top: 40%;
+}
+
 .centered_about {
     position: absolute;
     top: 35%;
