@@ -8,6 +8,7 @@
 				<?php
 									
 					echo Form::open(['action' => 'ContactFormController@store']);
+					echo Form::hidden('mail_id', 'contactform');
 					echo '<div class="row">';
 						echo '<div class="col-sm-3">';
 						echo '</div>';
@@ -32,7 +33,7 @@
 					        echo '<div class="row">';
 								echo '<div class="col-sm-12">';	
 						            echo Form::label('email', 'Email ');echo '<span style="color: red">*</span>';                      
-						            echo Form::text('email', null, array('class' => 'foo','required' => 'required' ));
+						            echo Form::email('email', null, array('class' => 'foo','required' => 'required' ));
 						            echo '<br/><br/>';
 				            	echo '</div>';
 					        echo '</div>';
@@ -40,7 +41,7 @@
 				            echo '<div class="row">';
 								echo '<div class="col-sm-12">';			    
 						            echo Form::label('phone', 'Contact number');	        	         
-						            echo Form::text('phone', null, array('class' => 'foo' ));
+						            echo Form::number('phone', null, array('class' => 'foo' ));
 						            echo '<br/><br/>';
 				            	echo '</div>';
 				            echo '</div>';

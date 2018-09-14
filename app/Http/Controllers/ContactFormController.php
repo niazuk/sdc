@@ -6,10 +6,11 @@ use Request;
 use App\ContactForm;
 
 class ContactFormController extends Controller
-{
+{ 
+
     public function store(Request $request){
     	$contact = [];
-    	$contact = Request::all();
+    	$contact = Request::all();    
 
    /* 	$contact['name'] = $request->get('name');
     	$contact['email_id'] = $request->get('email_id');

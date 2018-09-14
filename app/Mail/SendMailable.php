@@ -29,6 +29,11 @@ class SendMailable extends Mailable
      */
     public function build()
     {
-        return $this->subject('Customer Request')->view('name');
+        if ($this->name['mail_id'] == 'contactform') {
+            return $this->subject('Callback Request')->view('name');
+        }
+        else
+            return $this->subject('Receive a debt collection request')->view('debt_email');
+        
     }
 }
