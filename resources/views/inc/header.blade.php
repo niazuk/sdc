@@ -46,7 +46,7 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="navbar-top">
 				<div class="row">
-				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
+				<div class="hidden-xs hidden-sm col-md-4" style="background-color: #65b32e; color: #ffffff;">
 					<i></i><a href="tel:08454706299" title="Mobile" style="color: #ffffff;">&nbsp;&nbsp;</a>
 				</div>
 				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">

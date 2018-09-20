@@ -5,7 +5,8 @@
 	<div class="container">
 		<br>
 		<br>
-		SDC team has received your request. We will contact you ASAP.
+		<h1>Thank you for contacting us</h1>
+		<p>Your form has been submitted successfully. We will be in touch soon.</p>
 	</div>
 </div>
 

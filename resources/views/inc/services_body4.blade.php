@@ -1,7 +1,7 @@
 <div class="">
 	<img src="images/trace_customers.jpg" class="img-responsive" alt="" width="100%">
 	<div class="centered">
-		<h3>Track Customers</h3>
+		<h3>Trace Customers</h3>
 			<p>Do you have absconded debtors or tenants who has left owing rent? Has your partner vanished and is not paying child support? Are you looking to get back in touch with an old school friend? If so then SDC can help! Working on a "No trace - No Fee" basis.
 			</p>	
 	</div>
