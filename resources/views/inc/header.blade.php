@@ -46,18 +46,18 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="navbar-top">
 				<div class="row">
-				<div class="hidden-xs hidden-sm col-md-4" style="background-color: #65b32e; color: #ffffff;">
+				<div class="hidden-xs hidden-sm col-md-4 header_top" >
 					<i></i><a href="tel:08454706299" title="Mobile" style="color: #ffffff;">&nbsp;&nbsp;</a>
 				</div>
-				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
+				<div class="col-md-4 header_top">
 					<i class="glyphicon glyphicon-phone-alt"></i><a href="tel:08001303357"  title="Telephone (Free-phone)" style="color: #ffffff;">&nbsp;&nbsp;01204 201 580</a>
 				</div>				
-				<div class="col-md-4" style="background-color: #65b32e; color: #ffffff;">
+				<div class="col-md-4 header_top">
 					<i class="glyphicon glyphicon-envelope"></i><a href="mailto:wade@gigidy.com" title="Email" style="color: #ffffff;">&nbsp;&nbsp;enquiries@sagedebtcollection.com</a>
 				</div>
 			</div>
 			</div>
-			<div class="nav_top_fx_w3ls_agileinfo" style=" padding-top: 0em;">
+			<div class="nav_top_fx_w3ls_agileinfo">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
 					    aria-controls="navbar">
@@ -68,7 +68,7 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 		          </button>
 					<div class="logo-w3layouts-agileits">
 						<h1> <a class="" href="/"><div class="logo"><img class="desktop" src="images/logo.png" height="110% width="50%">
-																	<img class="mobile" src="images/logo_mobile.png"  height="125%">
+																	<img class="mobile" src="images/logo_mobile.png">
 																</div>
 						</a></h1>
 					</div>
