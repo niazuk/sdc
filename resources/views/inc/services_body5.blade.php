@@ -1,5 +1,8 @@
-<div class="">
-	<img src="images/credit_checking.jpg" class="img-responsive" alt="" width="100%">
+<div class="mobile_page">
+	<div class="logo">
+		<img class="desktop" src="images/credit_checking.jpg">
+		<img class="mobile" src="images/credit_checking_mobile.jpg">
+	</div>	
 	<div class="centered">
 		<h3>Credit Checking</h3>
 			<p>Credit checking assess your debtors ability to pay. As part of our commitment to excellence, SDC Collectors are proud to partner one of the UK's leading Business Credit Reference Agencies.

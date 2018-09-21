@@ -1,5 +1,8 @@
-<div class="">
-	<img src="images/commercial_debt_collection.jpg" class="img-responsive" alt="" width="100%">
+<div class="mobile_page">
+		<div class="logo">
+		<img class="desktop" src="images/commercial_debt_collection.jpg">
+		<img class="mobile" src="images/commercial_debt_collection_mobile.jpg">
+		</div>	
 	<div class="centered">
 		<h3>Commercial Debt Collection</h3>
 			<p>

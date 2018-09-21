@@ -2,8 +2,11 @@
 
 	<!--//banner_info-->
 	<!-- /inner_content -->
-	<div class="">
-		<img src="images/about_us.png" class="img-responsive" alt="" width="100%">
+	<div class="mobile_page">
+		<div class="logo">
+		<img class="desktop" src="images/about_us.png">
+		<img class="mobile" src="images/about_us_mobile.jpg">
+		</div>		
 		<div class="centered_about">
 			<h3>About us</h3>
 				<p id="centered_p">Sagedebtcollection services operates nationwide and run by an experienced team of debt collectors and legal experts, making us one of the UK’s leading debt collection agencies. Our extensive client base ranges across the board.<br><br>
@@ -60,7 +63,7 @@
 -->								<?php
 //									$request_update = '';
 									echo Form::open(['action' => 'CallbackController@store']);
-									
+									echo Form::hidden('mail_id', 'callback');
 									echo Form::label('name', 'Your Name:');
 						            echo '<br/>';
 						            echo Form::text('name');

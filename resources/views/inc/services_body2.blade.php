@@ -1,6 +1,9 @@
-<div class="">
-	<img src="images/credit_control.jpg" class="img-responsive" alt="" width="100%">
-	<div class="centered centered_credit_control">
+<div class="mobile_page">
+	<div class="logo">
+		<img class="desktop" src="images/credit_control.jpg">
+		<img class="mobile" src="images/credit_control_mobile.jpg">
+	</div>	
+	<div class="centered">
 		<h3>Credit Control</h3>
 		<p>Run by qualified, experienced and knowledgeable credit control staff, we can provide a targeted structured and consistent approach to your credit control.<br>
 		Our modern computer technology has direct access to up-to-date credit information systems, which enables us to investigate the profile of your debtor more thoroughly, thus ensuring the best course of debt collection action is taken for each and every account.

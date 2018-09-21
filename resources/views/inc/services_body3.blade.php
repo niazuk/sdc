@@ -1,5 +1,8 @@
-<div class="">
-	<img src="images/legal_debt_recovery.jpg" class="img-responsive" alt="" width="100%">
+<div class="mobile_page">
+	<div class="logo">
+		<img class="desktop" src="images/legal_debt_recovery.jpg">
+		<img class="mobile" src="images/legal_debt_recovery_mobile.jpg">
+	</div>
 	<div class="centered">
 		<h3>Legal Debt Recovery</h3>
 			<p>If a debt is still not paid, we will discuss and agree with you whether to issue legal proceedings in court or insolvency proceedings.
