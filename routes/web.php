@@ -51,6 +51,14 @@ Route::get('/signin', function () {
     return view('signin');
 });
 
+Route::get('/news1', function () {
+    return view('news1');
+});
+
+Route::get('/news2', function () {
+    return view('news2');
+});
+
 Route::get('/submit_debt', function () {
     return view('submit_debt');
 });

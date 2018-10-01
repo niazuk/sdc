@@ -19,7 +19,7 @@
 
 			</div>
 			<div class="row">
-				<div class="col-md-9 technology-left">
+				<div class="col-sm-9 col-md-9 technology-left">
 					<div class="business">
 						<div class=" blog-grid2">
 							
@@ -47,7 +47,7 @@
 					</div>
 				</div>
 				<!-- technology-right -->
-				<div class="col-md-3 technology-right-1">
+				<div class="col-sm-3 col-md-3 technology-right-1">
 					<div class="blo-top">
 						<div class="tech-btm">
 							<img src="images/slide1.jpg" class="img-responsive" alt="" />
@@ -92,21 +92,21 @@
 							<h4>Top stories of the week </h4>
 							<div class="blog-grids">
 								<div class="blog-grid-left">
-									<a href="single.html"><img src="images/g6.jpg" class="img-responsive" alt=""/></a>
+									<a href="/news1"><img src="images/news1_square.jpg" class="img-responsive" alt=""/></a>
 								</div>
 								<div class="blog-grid-right">
 
-									<h5><a href="single.html">Pellentesque dui, non felis. Maecenas male</a> </h5>
+									<h5><a href="/news1">Barristers call in debt collectors to chase up fees</a> </h5>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
 							<div class="blog-grids">
 								<div class="blog-grid-left">
-									<a href="single.html"><img src="images/g7.jpg" class="img-responsive" alt=""/></a>
+									<a href="/news2"><img src="images/news2_square.jpg" class="img-responsive" alt=""/></a>
 								</div>
 								<div class="blog-grid-right">
 
-									<h5><a href="single.html">Pellentesque dui, non felis. Maecenas male</a> </h5>
+									<h5><a href="/news2">When Should Freelancers Use a Collections Agency?</a> </h5>
 								</div>
 								<div class="clearfix"> </div>
 							</div>							
