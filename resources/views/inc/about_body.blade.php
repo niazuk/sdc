@@ -5,11 +5,11 @@
 	<div class="mobile_page">
 		<div class="logo">
 		<img class="desktop" src="images/about_us.png">
-		<img class="mobile" src="images/about_us_mobile.jpg">
+		<img class="mobile" src="images/about_us_mobile1.jpg">
 		</div>		
-		<div class="centered_about">
+		<div class="col-md-4 centered_about">
 			<h3>About us</h3>
-				<p id="centered_p">Sagedebtcollection services operates nationwide and run by an experienced team of debt collectors and legal experts, making us one of the UK’s leading debt collection agencies. Our extensive client base ranges across the board.<br><br>
+				<p id="centered_p">Sagedebtcollection services operates nationwide and run by an experienced team of debt collectors and legal experts, making us one of the UK’s leading debt collection agencies. Our extensive client base ranges across the board.<br>
 				NO SUCCESS = NO FEE on all debt recovery collections. We do not seek up-front payments.<br>
 				We have a high success rate, envied by many of our competitors. In fact we are proud to act for a number of other debt collection agencies as the final step when they failed to collect themselves. We offer a highly professional and effective service resulting in a high degree of success. Our commission rates offer excellent value for the work we undertake.
 				</p>	
@@ -79,7 +79,7 @@
 						            echo Form::text('phone_no');
 						            echo '<br/>';
 						            echo Form::hidden('message', 'Callback me');
-						            
+						            echo '<br/>';
 						            echo Form::submit('SEND NOW');
 							        echo Form::close();
 							    ?>						

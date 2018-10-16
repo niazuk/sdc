@@ -52,7 +52,7 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 				<div class="col-md-4 header_top">
 					<i class="glyphicon glyphicon-phone-alt"></i><a href="tel:08001303357"  title="Telephone (Free-phone)" style="color: #ffffff;">&nbsp;&nbsp;01204 201 580</a>
 				</div>				
-				<div class="col-md-4 header_top">
+				<div class="hidden-xs hidden-sm col-md-4 header_top">
 					<i class="glyphicon glyphicon-envelope"></i><a href="mailto:wade@gigidy.com" title="Email" style="color: #ffffff;">&nbsp;&nbsp;enquiries@sagedebtcollection.com</a>
 				</div>
 			</div>
@@ -92,6 +92,7 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 									<li><a href="/services5">Credit Checking</a></li>									
 								</ul>
 							</li>
+							<li><a href="/news">News</a></li>		
 							<li><a href="/submit_debt">Submit Debt</a></li>			
 							<li><a href="/contact">Contact</a></li>																			
 						</ul>

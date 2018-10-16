@@ -51,6 +51,10 @@ Route::get('/signin', function () {
     return view('signin');
 });
 
+Route::get('/news', function () {
+    return view('news');
+});
+
 Route::get('/news1', function () {
     return view('news1');
 });
