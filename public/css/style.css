@@ -2219,10 +2219,7 @@ ul.demo {
 
 .centered {
     position: absolute;
-    top: 40%;
-    left: 36%;
     color: #fff;
-    width: 35%;
     transform: translate(-50%, -50%);
     background-color: rgba(45,45,45, .25) !important;
 }
@@ -2263,7 +2260,7 @@ ul.demo {
         margin-top: 80px;
     }
     .centered {  
-        top: 50% !important;      
+        top: 40% !important;      
         left: 50% !important;      
         width: 100% !important;
     }
@@ -2272,6 +2269,11 @@ ul.demo {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media (max-width: 600px) {
+     .centered {
+        top: 40%;
+        left: 36%;
+        width: 100%;
+    }
      .centered_about {  
         top: 50% !important;           
         left: 50% !important;        
@@ -2299,6 +2301,11 @@ ul.demo {
 }
 */
 @media (min-width: 600px) and (orientation: landscape) {
+     .centered {
+        top: 80%;
+        left: 50%;
+        width: 100%;
+    }
      .centered_about {  
         top: 80% !important;           
         left: 50% !important;        
@@ -2312,6 +2319,11 @@ ul.demo {
 }
 
 @media (min-width: 600px) and (orientation: portrait) {
+     .centered {
+        top: 40%;
+        left: 50%;
+        width: 100%;
+    }
      .centered_about {  
         top: 50% !important;           
         left: 50% !important;        
@@ -2326,6 +2338,11 @@ ul.demo {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media(min-width: 768px) {
+     .centered {
+        top: 40%;
+        left: 45%;
+        width: 80%;
+    }
     .centered_about {  
         top: 38% !important;           
         left: 50% !important;        
@@ -2340,6 +2357,11 @@ ul.demo {
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media(min-width: 992px) {
+     .centered {
+        top: 40%;
+        left: 36%;
+        width: 50%;
+    }
     .centered_about {  
         top: 50% !important;           
         left: 50% !important;        
@@ -2354,6 +2376,11 @@ ul.demo {
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media(min-width: 1200px) {
+    .centered {
+        top: 40%;
+        left: 36%;
+        width: 35%;
+    }
     .centered_about {  
         top: 50% !important;           
         left: 38% !important;        
