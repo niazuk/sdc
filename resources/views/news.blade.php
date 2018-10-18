@@ -24,6 +24,8 @@
 								<div class="blog-grid-right">
 
 									<h5><a href="/news1">Barristers call in debt collectors to chase up fees</a> </h5>
+									<p>Hundreds of barristers have used a debt collection service to chase up solicitors' firms over unpaid fees, Independent.ie has learned.
+									<a href="/news1">Read More...</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -34,6 +36,8 @@
 								<div class="blog-grid-right">
 
 									<h5><a href="/news2">When Should Freelancers Use a Collections Agency?</a> </h5>
+									<p>Freelance work is becoming more common, with many pursuing it as a full-time career. But with the nature of this industry, there can be downsides, some as serious as not getting paid for your work.
+									<a href="/news2">Read More...</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>							

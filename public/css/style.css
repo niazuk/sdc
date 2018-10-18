@@ -301,7 +301,7 @@ span.desc {
 .carousel-caption {
     position: inherit;
     min-height: 650px !important;
-    padding-top: 15em;
+    padding-top: 10em;
     text-align: center;
    /* background-color: rgba(45,45,45,.5);*/
 }
@@ -556,7 +556,7 @@ ul.short li a {
 
 h3.tittle-w3ls {
     color: #1b1b1b;
-    font-size: 2em;
+    font-size: 1.4em;
     text-align: left;
     letter-spacing: 2px;
     font-weight: 700;
@@ -605,7 +605,7 @@ h3.tittle-w3ls.cen {
 
 .ser-first-grid h3 {
     margin: 26px 0 10px 0;
-    color: #65b32e;
+    color: #000;
     font-weight: 600;
     font-size: 1.2em;
     letter-spacing: 1px;
@@ -1576,7 +1576,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 630px !important;
-        padding-top: 17em;
+        padding-top: 15em;
         text-align: center;
     }
     .banner_bottom_left h4 {
@@ -1661,7 +1661,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 584px !important;
-        padding-top: 15em;
+        padding-top: 12em;
         text-align: center;
     }
     .ser-first-grid{
@@ -1721,7 +1721,7 @@ p.copy-right a:hover {
 @media(max-width:900px){
 	.carousel-caption {
         min-height: 565px !important;
-        padding-top: 15em;
+        padding-top: 12em;
         text-align: center;
     }
     .sign-gd h4, .sign-gd-two h4 {
@@ -1811,7 +1811,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 523px !important;
-        padding-top: 13em;
+        padding-top: 9em;
         text-align: center;
     }
     #quote-carousel .carousel-indicators {
@@ -1865,7 +1865,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 483px !important;
-        padding-top: 12em;
+        padding-top: 8em;
         text-align: center;
     }
     .banner_inner_con {
@@ -1898,7 +1898,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 450px !important;
-        padding-top: 11em;
+        padding-top: 8em;
         text-align: center;
     }
     .carousel-indicators {
@@ -1925,7 +1925,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 428px !important;
-        padding-top: 11em;
+        padding-top: 8em;
         text-align: center;
     }
     .carousel-control {
@@ -1965,7 +1965,7 @@ p.copy-right a:hover {
     }
     .carousel-caption {
         min-height: 406px !important;
-        padding-top: 11em;
+        padding-top: 8em;
         text-align: center;
     }
     #quote-carousel .carousel-indicators {
@@ -2116,9 +2116,6 @@ ul.demo {
     color: #ffffff;
 }
 
-.logo{
-    width: 100%;
-}
 
 .logo .mobile {
     display: none;
@@ -2250,6 +2247,9 @@ ul.demo {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .logo{
+        width: 60%;
+    }
      .logo .mobile {
       display: block;
     }
@@ -2259,19 +2259,14 @@ ul.demo {
     .mobile_page {
         margin-top: 80px;
     }
-    .centered {  
-        top: 40% !important;      
-        left: 50% !important;      
-        width: 100% !important;
-    }
    
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media (max-width: 600px) {
      .centered {
-        top: 40%;
-        left: 36%;
+        top: 50%;
+        left: 50%;
         width: 100%;
     }
      .centered_about {  
@@ -2285,22 +2280,11 @@ ul.demo {
         font-size: .7em
     }
 }
-/*@media only screen and (orientation: landscape) {
 
-    .centered_about {  
-        top: 80% !important;           
-        left: 50% !important;        
-        width: 100% !important;        
-    }
-    #centered_p {
-        background-color: rgba(45,45,45, 0) !important;
-        font-weight: 300;
-        font-size: .5em
-    }
-
-}
-*/
 @media (min-width: 600px) and (orientation: landscape) {
+    .logo{
+        width: 60%;
+    }
      .centered {
         top: 80%;
         left: 50%;
@@ -2319,8 +2303,11 @@ ul.demo {
 }
 
 @media (min-width: 600px) and (orientation: portrait) {
+    .logo{
+        width: 60%;
+    }
      .centered {
-        top: 40%;
+        top: 50%;
         left: 50%;
         width: 100%;
     }
@@ -2338,8 +2325,11 @@ ul.demo {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media(min-width: 768px) {
-     .centered {
-        top: 40%;
+    .logo{
+        width: 60%;
+    }
+    .centered {
+        top: 50%;
         left: 45%;
         width: 80%;
     }
@@ -2357,13 +2347,17 @@ ul.demo {
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media(min-width: 992px) {
+    .logo{
+    width: 100%;
+    height: 110%;
+}
      .centered {
-        top: 40%;
+        top: 50%;
         left: 36%;
         width: 50%;
     }
     .centered_about {  
-        top: 50% !important;           
+        top: 45% !important;           
         left: 50% !important;        
         width: 50% !important;        
     }
@@ -2382,7 +2376,7 @@ ul.demo {
         width: 35%;
     }
     .centered_about {  
-        top: 50% !important;           
+        top: 35% !important;           
         left: 38% !important;        
         width: 35% !important;        
     }

@@ -59,18 +59,17 @@ Manchester Debt Collection Agency, debt collector, debt recovery, debt collectio
 			</div>
 			<div class="nav_top_fx_w3ls_agileinfo">
 				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
-					    aria-controls="navbar">
-		            <span class="sr-only">Toggle navigation</span>
-		            <span class="icon-bar"></span>
-		            <span class="icon-bar"></span>
-		            <span class="icon-bar"></span>
-		          </button>
 					<div class="logo-w3layouts-agileits">
-						<h1> <a class="" href="/"><div class="logo"><img class="desktop" src="images/logo.png" height="110% width="50%">
-																	<img class="mobile" src="images/logo_mobile.png">
-																</div>
-						</a></h1>
+						<h1> <a class="" href="/"><img class="logo" src="images/logo.png">																								
+						</a>
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+					    aria-controls="navbar">
+					            <span class="sr-only">Toggle navigation</span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					            <span class="icon-bar"></span>
+					          </button>		
+					    </h1>
 					</div>
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
