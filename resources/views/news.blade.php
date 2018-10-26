@@ -1,11 +1,11 @@
 @include('inc.header')
-<div class="mobile_page">
+<div class="news_page_top">
 		<div class="logo">
-		<img class="desktop" src="images/about_us.png">
-		<img class="mobile" src="images/about_us_mobile.jpg">
+		<img class="desktop" src="images/news_banner.jpg">
+		<img class="mobile" src="images/news_banner_mobile.jpg">
 		</div>		
 		<div class="centered_about">
-			<h1 style="text-align: center;">News</h1>	
+			<h1 style="text-align: center;">NEWS</h1>	
 		</div>
 		<div class="container">
 			<div class="row">

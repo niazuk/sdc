@@ -556,7 +556,7 @@ ul.short li a {
 
 h3.tittle-w3ls {
     color: #1b1b1b;
-    font-size: 1.4em;
+    font-size: 1.6em;
     text-align: left;
     letter-spacing: 2px;
     font-weight: 700;
@@ -2199,9 +2199,9 @@ ul.demo {
 
 .service_text h3{
     margin: 26px 0 10px 0;
-    color: #65b32e;
+    color: #000;
     font-weight: 700;
-    font-size: 1.3em;
+    font-size: 1.2em;
     letter-spacing: 1px;
 }
 
@@ -2244,6 +2244,10 @@ ul.demo {
     width: 100%;
     padding: 0px !important;
 }
+
+ .news_page_top {
+        margin-top: 80px;
+    }
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
@@ -2385,7 +2389,5 @@ ul.demo {
         font-weight: 300;
         font-size: .8em
     }
-
-
 
 
